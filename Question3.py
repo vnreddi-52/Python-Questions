@@ -1,0 +1,6 @@
+S = input()
+lowered = S.lower().split()
+print(S)
+print(lowered)
+lowered.sort()
+print(lowered[0])
