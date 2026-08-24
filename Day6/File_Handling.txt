@@ -1,0 +1,32 @@
+Create a file
+Open a file
+Read from a file
+Write to a file
+Append to a file
+Update a file
+Close a file
+Rename a file
+Delete a file
+Check whether a file exists
+Work with directories/folders
+Handle CSV and JSON files
+Handle exceptions while working with files
+
+
+1. r - read 
+2. w - write 
+3. a - Append
+4. x - create a new file
+5. r+ - read + write
+6. w+ - write + read
+7. a+ - append + read
+8. x+ - create+read+write
+
+Binary Modes
+
+rb - read Binary
+wb - write Binary
+ab - append Binary
+xb - create Binary
+rb+ or r+b
+wb+

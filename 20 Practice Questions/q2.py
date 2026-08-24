@@ -1,0 +1,9 @@
+x="25"
+y=4.5
+z=10
+r1=int(x)+z
+r2=int(x)*2
+r3=y+z
+print(r1,type(r1))
+print(r2,type(r2))
+print(r3,type(r3))
